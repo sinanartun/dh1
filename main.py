@@ -9,8 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
 
-def test3(var2, var3, var4):
-    return var2 + var3 + var4
+def test3(var2, var3, var4, var6):
+    return var2 + var3 + var4 + var6
 
 
 # Press the green button in the gutter to run the script.
