@@ -12,8 +12,9 @@ def print_hi(name):
 def test3(var2, var3, var4, var6):
     return var2 + var3 + var4 + var6
 
+
 def test4(var1):
-    return var1**
+    return var1
 
 
 # Press the green button in the gutter to run the script.
